@@ -1,0 +1,147 @@
+{
+    "skills" : [
+        {
+            "name" : "total",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "attack",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "defence",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "strength",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "hitpoints",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "ranged",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "prayer",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "magic",
+            "level" : "",
+            "xp" : ""
+        },
+        
+        {
+            "name" : "cooking",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "woodcutting",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "fletching",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "fishing",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "firemaking",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "crafting",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "smithing",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "mining",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "herblore",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "agility",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "thieving",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "slayer",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "farming",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "runecrafting",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "hunter",
+            "level" : "",
+            "xp" : ""
+        },
+
+        {
+            "name" : "construction",
+            "level" : "",
+            "xp" : ""
+        }
+    ]
+}
